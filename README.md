@@ -24,10 +24,10 @@ The model was trained on a curated dataset in Google Colab and integrated into a
 ## 🧠 Model Performance
 
 ### 📊 Accuracy Curve
-![Accuracy](result screenshots/Model Accuracy/Graph Accuracy.png)
-![Accuracy](result screenshots/Model Accuracy/Accuracy Report.png)
+![Accuracy](result_screenshots/Model_Accuracy/Graph_Accuracy.png)
+![Accuracy](result_screenshots/Model_Accuracy/Accuracy_Report.png)
 ### 📊 Confusion Matrix
-![Accuracy](result screenshots/Model Accuracy/Confusion Matrix.png)
+![Accuracy](result_screenshots/Model_Accuracy/Confusion_Matrix.png)
 
 
 
@@ -65,12 +65,12 @@ These libraries are used for model training, preprocessing, and running the web 
 
 ### 🏠 Home Page
 
-![Home](result screenshots/UI/Frontend page.png)
+![Home](result_screenshots/UI/Frontend_page.png)
 
 ### 🔍 Prediction Result
 
-![Result](result screenshots/UI/cataract prediction.png)
-![Result](result screenshots/UI/Normal Prediction.png)
+![Result](result_screenshots/UI/cataract_prediction.png)
+![Result](result_screenshots/UI/Normal_Prediction.png)
 
 ---
 
@@ -78,4 +78,5 @@ These libraries are used for model training, preprocessing, and running the web 
 **Yeshee Agarwal**
 
 Feel free to reach out for collaboration or suggestions!
+
 
