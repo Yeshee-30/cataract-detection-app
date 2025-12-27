@@ -8,7 +8,7 @@ from PIL import Image
 # -----------------------------------------------------------
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model("/content/drive/MyDrive/mini_resnet_model.h5")
+    model = tf.keras.models.load_model("mini_resnet_model.h5")
     return model
 
 model = load_model()
@@ -102,3 +102,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
