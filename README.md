@@ -6,7 +6,7 @@ Built using **TensorFlow** and **Streamlit**.
 ---
 
 ## 🚀 Live Demo
-👉 Add the link to your Streamlit Cloud or HuggingFace Spaces deployment here.
+👉 [Cataract Detection App](https://cataract-detection-app-ja69amujra57dzvsq2v5zj.streamlit.app)
 
 ---
 
@@ -48,13 +48,14 @@ Training code is provided inside the `src/` folder.
 ## 📝 Requirements
 
 ```
-streamlit==1.24.0
-tensorflow==2.12.0
-numpy==1.23.5
-pillow==10.2.0
-matplotlib==3.7.1
-scikit-learn==1.2.2
-seaborn==0.12.2
+streamlit
+tensorflow
+numpy
+pillow
+matplotlib
+scikit-learn
+seaborn
+opencv-python
 ```
 
 These libraries are used for model training, preprocessing, and running the web app.
@@ -78,5 +79,6 @@ These libraries are used for model training, preprocessing, and running the web 
 **Yeshee Agarwal**
 
 Feel free to reach out for collaboration or suggestions!
+
 
 
